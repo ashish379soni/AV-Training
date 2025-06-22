@@ -1,5 +1,4 @@
 """Simple app in streamlit"""
-
 import streamlit as st
 from area import circle
 
